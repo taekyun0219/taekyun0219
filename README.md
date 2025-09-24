@@ -12,19 +12,8 @@
 </div>
 
 ***
-<div align="center">
-  <!-- GitHub Top Languages -->
-  <a href="https://github.com/taekyun0219">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
-  </a>
-  <!-- 간격 조절 -->
-  <span style="margin: 0 30px;"></span>
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/taekyun0219/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/taekyun0219/)
 <!--
 **taekyun0219/taekyun0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
