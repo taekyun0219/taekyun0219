@@ -12,16 +12,32 @@
 </div>
 
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/taekyun0219/)
-### 🛠 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MPI-000000?style=flat&logo=mpi&logoColor=white"/>
+
+  <!-- 왼쪽: 언어 통계 -->
+  <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
+  </div>
+
+  <!-- 오른쪽: LinkedIn + Tech Stack -->
+  <div style="display: inline-block; vertical-align: top; text-align: center;">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/taekyun0219/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
+    </a>
+    <br/><br/>
+
+    <!-- Tech Stack -->
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MPI-black?style=flat"/>
+    </div>
+  </div>
+
 </div>
+
 
 <!--
 **taekyun0219/taekyun0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
