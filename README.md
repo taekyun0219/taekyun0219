@@ -1,6 +1,16 @@
-[![Solved.ac
-taekyun0219](http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyun0219)](https://solved.ac/taekyun0219)   [![Solved.ac
-taekyunlee](http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyunlee)](https://solved.ac/taekyunlee)
+<div align="center">
+  <!-- 첫 번째 Solved.ac 뱃지 -->
+  <a href="https://solved.ac/taekyun0219">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyun0219" alt="Solved.ac Profile 1" />
+  </a>
+  <!-- 간격 조절 -->
+  <span style="margin: 0 30px;"></span>
+  <!-- 두 번째 Solved.ac 뱃지 -->
+  <a href="https://solved.ac/taekyunlee">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyunlee" alt="Solved.ac Profile 2" />
+  </a>
+</div>
+
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact)
 
