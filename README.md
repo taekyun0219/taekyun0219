@@ -12,9 +12,7 @@
 </div>
 
 ***
-
 <div align="center">
-
   <!-- 왼쪽: 언어 통계 -->
   <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
@@ -36,5 +34,4 @@
       <img src="https://img.shields.io/badge/MPI-black?style=flat"/>
     </div>
   </div>
-
 </div>
