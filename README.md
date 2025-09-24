@@ -1,7 +1,7 @@
 [![Solved.ac
-taekyun0219](http://mazassumnida.wtf/api/v2/generate_badge?boj={taekyun0219})](https://solved.ac/{taekyun0219}) [![Solved.ac
-taekyunlee](http://mazassumnida.wtf/api/v2/generate_badge?boj={taekyunlee})](https://solved.ac/{taekyunlee})
----
+taekyun0219](http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyun0219)](https://solved.ac/taekyun0219)   [![Solved.ac
+taekyunlee](http://mazassumnida.wtf/api/v2/generate_badge?boj=taekyunlee)](https://solved.ac/taekyunlee)
+***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact)
 
 <!--
