@@ -13,24 +13,29 @@
 
 ***
 <div align="center">
-  <!-- 왼쪽: 언어 통계 -->
-  <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
-  </div>
 
-  <!-- 오른쪽: LinkedIn + Tech Stack -->
-  <div style="display: inline-block; vertical-align: top; text-align: center;">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/taekyun0219/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
-    </a>
-    <br/><br/>
+  <table>
+    <tr>
+      <!-- 왼쪽: 언어 통계 -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
+      </td>
 
-    <div align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MPI-000000?style=flat&logo=mpi&logoColor=white"/>
-    </div>
-  </div>
+      <!-- 오른쪽: LinkedIn + Tech Stack -->
+      <td align="center" style="min-width: 300px;">
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/taekyun0219/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
+        </a>
+        <br/><br/>
+
+        <!-- Tech Stack -->
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MPI-000000?style=flat"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
