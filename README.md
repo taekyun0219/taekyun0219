@@ -26,12 +26,11 @@
     </a>
     <br/><br/>
 
-    <!-- Tech Stack -->
-    <div>
+    <div align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MPI-black?style=flat"/>
+      <img src="https://img.shields.io/badge/MPI-000000?style=flat&logo=mpi&logoColor=white"/>
     </div>
   </div>
 </div>
