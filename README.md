@@ -12,7 +12,7 @@
 </div>
 
 ***
-<!-- <div align="center">
+<div align="center">
   <!-- 왼쪽: 언어 통계 -->
   <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" />
@@ -25,17 +25,5 @@
     </a>
     <br/><br/>
   </div>
-</div> -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/taekyun0219/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
