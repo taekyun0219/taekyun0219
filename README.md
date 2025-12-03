@@ -16,7 +16,7 @@
   <!-- 왼쪽: 언어 통계 -->
   <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact" alt="Top Langs" /> -->
-    ![taekyun0219's github stats](https://github-readme-stats.vercel.app/api?username=taekyun0219)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyun0219&layout=compact&theme=tokyonight)
   </div>
   <!-- 오른쪽: LinkedIn + Tech Stack -->
   <div style="display: inline-block; vertical-align: top; text-align: center;">
